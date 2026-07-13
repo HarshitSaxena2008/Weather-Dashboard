@@ -38,3 +38,6 @@ body {
 .degree-sec , .infrmation{
     min-height : 490px;
 }
+.forecasting-days:hover{
+    scale: calc(1.02);
+}
