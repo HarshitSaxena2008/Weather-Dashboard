@@ -1,5 +1,5 @@
 body {
-    background-image: url('background-img.png');
+    background-image: url('images/background-img.png');
     background-size :cover;
 }
 .navbar , footer{
@@ -24,7 +24,7 @@ body {
     width:68%;
 }
 .degree{
-    background-image: url('degree\ section.png');
+    background-image: url('images/degree\ section.png');
     background-size: cover;
     background-position: center;
     border-radius: 20px;
