@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://findweatherdetails.netlify.app/sitemap.xml
